@@ -9,6 +9,10 @@ Also I do not claim any copyright to this script as all of it's contents were wr
 
 Put script in /usr directory.
 
+Edit the script with a text editor.
+Set the BRANCH variable to your present NetBSD version.
+Set the PKGSRC variable to the most recent stable pkgsrc version.
+Set the ARCH variable to the hardware that you are using now (i386, amd64, sparc etc.).
 
 To fetch or update the kernel and userland sources:
 
